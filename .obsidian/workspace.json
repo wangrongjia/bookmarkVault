@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "bdf02b20098fc888",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3ddd9160a9c12e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b300211f202d735e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "职场/AI/推荐一个 RAG 的文章合集 - V2EX.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "推荐一个 RAG 的文章合集 - V2EX"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f698ce0706d1ccc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "68d1d0cf75f1bcba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7e30c12a3da58b4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7bad0d575b4853f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "合计也有 3000 多 star 了",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7f349e83f424e2fc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3a17ed5b76286c1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "32e2d2cd95551bb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a1a86348e868353",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Slurped Pages/各位纯电车主，你们的电车现在电池衰减多少了，想买车参考下。 - V2EX.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 各位纯电车主，你们的电车现在电池衰减多少了，想买车参考下。 - V2EX"
+            }
+          },
+          {
+            "id": "71967aac5f860264",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Slurped Pages/各位纯电车主，你们的电车现在电池衰减多少了，想买车参考下。 - V2EX.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 各位纯电车主，你们的电车现在电池衰减多少了，想买车参考下。 - V2EX"
+            }
+          },
+          {
+            "id": "6539223afa0e5793",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5a654648be764295",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Slurped Pages/各位纯电车主，你们的电车现在电池衰减多少了，想买车参考下。 - V2EX.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 各位纯电车主，你们的电车现在电池衰减多少了，想买车参考下。 - V2EX"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "media-extended:Open media": false
+    }
+  },
+  "active": "e7e30c12a3da58b4",
+  "lastOpenFiles": [
+    "职场/AI/deepseek 应用：能否根据自动订阅的公众号、RSS，每天为我总结新闻或者关注的技术 - V2EX.md",
+    "职场/AI/推荐一个 RAG 的文章合集 - V2EX.md",
+    "职场/编程技术/大佬们，一人出一道后端面试题，年后准备跳槽 - V2EX.md",
+    "README.md",
+    "生活/现在大家手机卡套餐，怎么选择 - V2EX.md",
+    "职场/AI/ai 对程序员行业的冲击到底有多大 - V2EX.md",
+    "职场/sidePro/分享一个自己整理的纯干货：独立开发者  独立小团队如何在一周内搞定所有的资质开始在 App Store  Steam  Stripe 收款 - V2EX.md",
+    "职场/编程技术/有没有基于拦截浏览器请求来达成一些事情的浏览器扩展 - V2EX.md",
+    "职场/编程技术/请教一个视频网站的设计方案 - V2EX.md",
+    "职场/工具/cursor/开发了两个插件，用来快速在 IDEA 和 Cursor 之间切换 - V2EX.md",
+    "职场/编程技术/对于依赖注入的思考 - V2EX.md",
+    "职场/工具/独立开发出海必备工具站！— 我的新产品 - V2EX.md",
+    "生活/润/36 岁本想做个独立开发，没成想润了出去 - V2EX.md",
+    "生活/做了一个中文版的音乐理论交互教学网站： https - www.lightnote.com.cn - V2EX.md",
+    "生活/润",
+    "生活/各位纯电车主，你们的电车现在电池衰减多少了，想买车参考下。 - V2EX.md",
+    "职场/编程技术/转眼 5 年，两个当初写着玩的 go 项目不知不觉加了很多功能，合计也有 3000 多 star 了，开心又疲惫，当作是职业生涯的纪念 - V2EX.md",
+    "生活/Pasted image 20250213094953.png",
+    "职场/编程技术/个人猜想 WebAssembly 的未来 - V2EX.md",
+    "生活/润/分享下自己移民新西兰的经历 - V2EX.md",
+    "生活/润/中文系 0 经验在新西兰成功拿到 QA 工作 offer - V2EX.md",
+    "职场/八年前端分享最近两周面试情况 - V2EX.md",
+    "职场/运维/2025 开源新征程 - V2EX.md",
+    "职场/工具/cursor/烦了很久的 cursor markdown 代码块转义混乱问题 ! 写 prompt 解决了 - V2EX.md",
+    "职场/工具/AI 视频自动剪辑，帮你节省视频制作流程至少 1 小时 - V2EX.md",
+    "生活/千万别在转转寄售！ - V2EX.md",
+    "生活/外语/EnglishDaily 一款免费的每日英语学习网站 - V2EX.md",
+    "职场/工具/cursor/再次惊叹 cursor 的能力，最近正在写 ha 的 dashboard，几乎所有代码都有 cursor 完成 - V2EX.md",
+    "Slurped Pages"
+  ]
+}
