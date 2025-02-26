@@ -14,7 +14,7 @@ title: 连接同一个 WIFI，我的 WSL 无法 PING 通外网 IP， 而其他�
 2.我换成其他 wifi ，宿主机和 wsl 就一切正常  
 3.已经重置过 windows 网络，问题依旧  
 4.window 自带防火墙已经全部关闭，问题依旧
-[[连接同一个 WIFI，我的 WSL 无法 PING 通外网 IP， 而其他人就可以，我换成 WIFI 就能 ping 通，是什么原因 - V2EX]]
+[[连接同一个 WIFI，我的 WSL 无法 PING 通外网 IP，是什么原因 - V2EX]]
 [](https://www.v2ex.com/tag/WSL)
 
 [WSL](https://www.v2ex.com/tag/WSL)[
