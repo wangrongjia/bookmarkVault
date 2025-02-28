@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活/润/36 岁本想做个独立开发，没成想润了出去 - V2EX.md",
+                "file": "职场/AI/清华大学博士后团队编写《DeepSeek：从入门到精通》分享！另附本地部署不卡顿教程 - V2EX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "36 岁本想做个独立开发，没成想润了出去 - V2EX"
+              "title": "清华大学博士后团队编写《DeepSeek：从入门到精通》分享！另附本地部署不卡顿教程 - V2EX"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生活/润/36 岁本想做个独立开发，没成想润了出去 - V2EX.md",
+                "file": "职场/AI/清华大学博士后团队编写《DeepSeek：从入门到精通》分享！另附本地部署不卡顿教程 - V2EX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 36 岁本想做个独立开发，没成想润了出去 - V2EX"
+              "title": "Backlinks for 清华大学博士后团队编写《DeepSeek：从入门到精通》分享！另附本地部署不卡顿教程 - V2EX"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生活/润/36 岁本想做个独立开发，没成想润了出去 - V2EX.md",
+                "file": "职场/AI/清华大学博士后团队编写《DeepSeek：从入门到精通》分享！另附本地部署不卡顿教程 - V2EX.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 36 岁本想做个独立开发，没成想润了出去 - V2EX"
+              "title": "Outline of 清华大学博士后团队编写《DeepSeek：从入门到精通》分享！另附本地部署不卡顿教程 - V2EX"
             }
           }
         ],
@@ -171,8 +171,21 @@
       "media-extended:Open media": false
     }
   },
-  "active": "b300211f202d735e",
+  "active": "e7e30c12a3da58b4",
   "lastOpenFiles": [
+    "职场/AI/谁家的 deepseek 模型 api 服务可以自己定义知识库的（最好价格也不贵的）？ - V2EX.md",
+    "职场/AI/清华大学博士后团队编写《DeepSeek：从入门到精通》分享！另附本地部署不卡顿教程 - V2EX.md",
+    "职场/工具/cursor/难受， Cursor 吞我订阅，也不回我邮件，怎么办呢？ - V2EX.md",
+    "职场/AI/分享几个精选的 Chatbot 开源项目，可以快速二次开发赶上 DeepSeek 热点 - V2EX.md",
+    "职场/工具/cursor/举个自己用 cursor 的例子吧 - V2EX.md",
+    "生活/发现京东上面一家号称是美国进口保健品的商铺有大量虚假信息，该怎么维权？ - V2EX.md",
+    "生活/又一年了，大家给父母怎么配置保险的。 - V2EX.md",
+    "职场/AI/过年用 cursor 写了个多 agent 讨论系统（AgentVerse），已开源，免注册欢迎体验 - V2EX.md",
+    "职场/sidePro/[出海收款]Paddle 账户申请保姆级教程 - V2EX.md",
+    "职场/工具/OHY 又一款 WEB 打包成桌面应用的 CLI 工具 - V2EX.md",
+    "职场/业务开发转基架求职咨询，望不吝赐教 - V2EX.md",
+    "生活/润/刚出炉的 ! 2025 年香港银行开户攻略,中银万事达、汇丰、众安、蓝狮子、实体卡下卡成功 - V2EX.md",
+    "生活/润/36 岁本想做个独立开发，没成想润了出去 - V2EX.md",
     "生活/润/分享下自己移民新西兰的经历 - V2EX.md",
     "生活/润/中文系 0 经验在新西兰成功拿到 QA 工作 offer - V2EX.md",
     "生活/润/deepseek问润学.md",
@@ -186,20 +199,7 @@
     "生活/从一件小事上窥见淘宝被 PDD 超过的原因之一。 - V2EX.md",
     "生活/发现如果高速上出现两车并排龟速并且高速只要两车道时，大部分 - V2EX.md",
     "生活/分享一个关于购买的双开微信包有异常风险行为的事情 - V2EX.md",
-    "生活/刚卖了房子，几点感受分享给大家 - V2EX.md",
-    "生活/各位纯电车主，你们的电车现在电池衰减多少了，想买车参考下。 - V2EX.md",
-    "生活/科普下火车票的一些基础知识，以便大家更加合理的选择车次 - V2EX.md",
-    "生活/千万别在转转寄售！ - V2EX.md",
-    "生活/轻微利益相关，来介绍一下光伏的坑和费用 - V2EX.md",
-    "生活/求推荐笔记本电脑 4000 左右价位 - V2EX.md",
-    "生活/我也来问 12306 的库存方面的问题 - V2EX.md",
-    "生活/现在大家手机卡套餐，怎么选择 - V2EX.md",
-    "生活/原研汇：原研药信息查询小程序上线，欢迎体验！ - V2EX.md",
-    "生活/做了一个中文版的音乐理论交互教学网站： https - www.lightnote.com.cn - V2EX.md",
     "生活/Pasted image 20250213094953.png",
-    "职场/编程技术/MQ/rocketmq 怎么实现事务消息 - V2EX.md",
-    "职场/编程技术/不懂就问，请教一下前端无感刷新 token 到底有没有意义？ - V2EX.md",
-    "职场/编程技术/大佬们，请教一下数据读取 - V2EX.md",
     "Slurped Pages",
     "生活/润"
   ]
